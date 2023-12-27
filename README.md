@@ -55,3 +55,40 @@ the model&#39;s performance metrics on both the train and test datasets.
  Discuss potential methods or approaches to enhance model performance. This could
 include feature engineering, different algorithms, or refining the data preprocessing
 steps.
+
+
+## Approach
+
+The folder contains necessary Python files and data for the analysis and solutions of the NeoStats Banking Case.
+
+## Included Dataset
+- `Banking Case-Data.xlsx`: Excel file containing the original dataset used for analysis.
+- `TransactionData.csv`: CSV file containing the data for Banking Transactions after Cleaning.
+- `CustomerData.csv`: CSV file containing the data for Customer Demographics after Cleaning.
+
+
+## Included Notebooks
+
+### 1. NeoStats_BankingCase_Preprocessing.ipynb
+- Focuses on handling junk values and cleaning categorical and numerical columns within the dataset. The cleaned data are saved as 'TransactionData.csv' and 'CustomerData.csv'.
+
+### 2. NeoStats_BankingCase_AnalysisQuestions.ipynb
+- Provides visualizations and answers analytical questions pertaining to the dataset.
+
+### 3. NeoStats_BankingCase_Modelling.ipynb
+- Focuses on modeling to classify Term Deposit using various machine learning models.
+- Includes a comparative analysis of the models' performance.
+
+The notebooks sequentially address data preprocessing, exploratory analysis, and modeling phases to achieve solutions and insights for the NeoStats Banking Case.
+
+## Usage
+1. Ensure the required libraries are installed (e.g., pandas, numpy, matplotlib, scikit-learn).
+2. Open and run the notebooks sequentially: Preprocessing → Analysis Questions → Modelling.
+3. Modify the code and paths as needed for your specific dataset or analysis.
+
+## Note
+Ensure the necessary dataset files or data sources are available and correctly referenced within the notebooks.
+
+### Author
+Keerthana R
+keerthanarangaraj812@gmail.com
