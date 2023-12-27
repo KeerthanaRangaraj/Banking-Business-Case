@@ -69,13 +69,13 @@ The folder contains necessary Python files and data for the analysis and solutio
 
 ## Included Notebooks
 
-### 1. NeoStats_BankingCase_Preprocessing.ipynb
+### 1. BankingCase_Preprocessing.ipynb
 - Focuses on handling junk values and cleaning categorical and numerical columns within the dataset. The cleaned data are saved as 'TransactionData.csv' and 'CustomerData.csv'.
 
-### 2. NeoStats_BankingCase_AnalysisQuestions.ipynb
+### 2. BankingCase_AnalysisQuestions.ipynb
 - Provides visualizations and answers analytical questions pertaining to the dataset.
 
-### 3. NeoStats_BankingCase_Modelling.ipynb
+### 3. BankingCase_Modelling.ipynb
 - Focuses on modeling to classify Term Deposit using various machine learning models.
 - Includes a comparative analysis of the models' performance.
 
