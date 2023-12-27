@@ -79,7 +79,7 @@ The folder contains necessary Python files and data for the analysis and solutio
 - Focuses on modeling to classify Term Deposit using various machine learning models.
 - Includes a comparative analysis of the models' performance.
 
-The notebooks sequentially address data preprocessing, exploratory analysis, and modeling phases to achieve solutions and insights for the NeoStats Banking Case.
+The notebooks sequentially address data preprocessing, exploratory analysis, and modeling phases to achieve solutions and insights for the Banking Case.
 
 ## Usage
 1. Ensure the required libraries are installed (e.g., pandas, numpy, matplotlib, scikit-learn).
